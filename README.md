@@ -113,7 +113,7 @@ sns.histplot(x=df['totaldeaths'],data=df)
 sns.kdeplot(x=df['newdeaths'],data=df)
 
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/94185707/202080259-31bdf3ca-16b6-4886-abf3-fdf761676a29.png">
-Result:
+## Result:
 Thus above program is required for covid analysis and analyzed successfully.
 
 
