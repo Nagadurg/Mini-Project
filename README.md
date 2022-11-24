@@ -2,11 +2,13 @@
 ## Aim: 
 To implement data science techniques in covid dataset
 ## Algorithm:
+```
 1.Import necessary packages.
 2.Implement univariate techniques.
 3.Implement bivariate techniques.
 4.Implement data visualization techniques.
 5.Close the program.
+```
 ## Program with output:
 ```
 import pandas as pd
