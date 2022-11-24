@@ -1,6 +1,12 @@
 ## Covid---Analysis
 ## Aim: 
 To implement data science techniques in covid dataset
+## Algorithm:
+1.Import necessary packages.
+2.Implement univariate techniques.
+3.Implement bivariate techniques.
+4.Implement data visualization techniques.
+5.Close the program.
 ## Program with output:
 ```
 import pandas as pd
@@ -105,7 +111,8 @@ sns.histplot(x=df['totaldeaths'],data=df)
 sns.kdeplot(x=df['newdeaths'],data=df)
 
 <img width="293" alt="image" src="https://user-images.githubusercontent.com/94185707/202080259-31bdf3ca-16b6-4886-abf3-fdf761676a29.png">
-
+Result:
+Thus above program is required for covid analysis and analyzed successfully.
 
 
 
